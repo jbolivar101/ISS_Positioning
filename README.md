@@ -119,6 +119,7 @@ The options that do not have these arrows are broad and will list out the differ
    "Ankara": 14
 }
 ```
+This list of cities only gives you option, not the data we need
 ### Citations
 #### 1)
 Goodwin, S. (n.d.). ISS_COORDS_2022-02-13. NASA. https://nasa-public-data.s3.amazonaws.com/iss-coords/2022-02-13/ISS_OEM/ISS.OEM_J2K_EPH.xml Retrieved March 17, 2022, from https://data.nasa.gov/Space-Science/ISS_COORDS_2022-02-13/r6u8-bhhq
